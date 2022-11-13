@@ -1,5 +1,3 @@
-# Read Me
-
 This is a test of Github Pages
 
 1. Test
